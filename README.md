@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native applications: attempting to access component state or props before the component has fully mounted. The `bug.js` file showcases the problematic code, while `bugSolution.js` provides the corrected implementation.  The error usually manifests as `undefined` or `Cannot read properties of undefined` errors during runtime.
